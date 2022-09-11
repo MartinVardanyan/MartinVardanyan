@@ -23,7 +23,7 @@ education:
     "Web Programming with Python course",
     "Bachelor's in Economics",
   ]
-company:  Scimagine
+company: Scimagine
 fields_of_interests:
   [
     "Web Development",
