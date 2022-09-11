@@ -11,11 +11,11 @@
 </h2>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-yaml
 ```
-name:  Martin Vardanyan
-located_in:  Yerevan, Armenia
-current_job:  Software Developer
+yaml
+<dl>name</dl>: Martin Vardanyan
+located_in: Yerevan, Armenia
+current_job: Software Developer
 education: 
   [
     "Python Introduction to Data Science and ML course",
@@ -37,8 +37,8 @@ technical_background:
     "Mentroship - Data Science & Machine Learning in Python",
     "Intern - Machine Learning Models development",
   ]
-goals:  ["Create useful python library"]
-hobbies:  ["Chess", "Football", "Music", "Swimming", "Movies"]
+goals: ["Create useful python library"]
+hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
 ```
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
