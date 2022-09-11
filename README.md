@@ -10,20 +10,19 @@
 <a href="https://www.linkedin.com/in/martin-vardanyan-6a5b1b1b1/"><img src="https://tenor.com/view/linkin-logo-gif-25661113.gif" width=40></a>
 </h2>
 
----
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-```yaml
-name: Martin Vardanyan
-located_in: Yerevan, Armenia
-current_job: Software Developer
-education:
+yaml
+```
+name:  Martin Vardanyan
+located_in:  Yerevan, Armenia
+current_job:  Software Developer
+education: 
   [
     "Python Introduction to Data Science and ML course",
     "Web Programming with Python course",
     "Bachelor's in Economics",
   ]
-company: Scimagine
+company:  Scimagine
 fields_of_interests:
   [
     "Web Development",
@@ -38,11 +37,9 @@ technical_background:
     "Mentroship - Data Science & Machine Learning in Python",
     "Intern - Machine Learning Models development",
   ]
-goals: ["Create useful python library"]
-hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
+goals:  ["Create useful python library"]
+hobbies:  ["Chess", "Football", "Music", "Swimming", "Movies"]
 ```
-
----
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="left">
