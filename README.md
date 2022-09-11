@@ -69,7 +69,6 @@ hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
 <a href="https://github.com/MartinVardanyan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinvardanyan&count_private=true&show_icons=true&theme=dark&title_color=FFA500&hide=stars" />
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=martinvardanyan&theme=dark&background=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvardanyan&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 [![Martin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=martinvardanyan&custom_title=Martin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
