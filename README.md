@@ -67,7 +67,11 @@ hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/MartinVardanyan">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinvardanyan&count_private=true&show_icons=true&theme=dark&title_color=FFA500&hide=stars)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img height="180em" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinvardanyan&theme=dark&background=000000)](https://git.io/streak-stats)" />
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinvardanyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinvardanyan&count_private=true&show_icons=true&theme=dark&title_color=FFA500&hide=stars" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=martinvardanyan&theme=dark&background=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvardanyan&layout=compact&theme=vision-friendly-dark" />
 </a>
+
+[![Martin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=martinvardanyan&custom_title=Martin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+<p align="center"><img src="https://profile-counter.glitch.me/{martinvardanyan}/count.svg"></p>
+
