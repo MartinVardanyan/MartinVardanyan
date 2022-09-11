@@ -11,9 +11,27 @@
 </h2>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+title: "YAML"
+tags: "yaml markdown markup language processor jekyll"
+desc: "Understanding YAML, another markup language, that’s great for structured content."
+playlist: PLWjCJDeWfDdfzjgthWhvHOxyvFZDCp_2L
+download: https://github.com/acgd-learn-the-web/yaml-code/archive/master.zip
+github: https://github.com/acgd-learn-the-web/yaml-code
+cheatsheet: markdown-yaml-cheat-sheet
+extra_practice:
+  week:
+    title: "Web Dev 4, Week 04"
+    url: "/courses/web-dev-4/week-04/"
+  slides:
+    - title: "Markdown & YAML"
+      url: "/courses/web-dev-4/markdown-yaml/"
+  activities:
+    - title: "YAML Yodeller"
+      url: "yaml-yodeller"
+
 ---
 yaml
-<name: Martin Vardanyan
+ - name: Martin Vardanyan
 located_in: Yerevan, Armenia
 current_job: Software Developer
 education: 
@@ -39,7 +57,6 @@ technical_background:
   ]
 goals: ["Create useful python library"]
 hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
-/>
 ---
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
