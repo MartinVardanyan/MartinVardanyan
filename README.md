@@ -9,6 +9,9 @@
 <h2 align="left">Connect with me:<br>
 <a href="https://www.linkedin.com/in/martin-vardanyan-6a5b1b1b1/"><img src="https://tenor.com/view/linkin-logo-gif-25661113.gif" width=40></a>
 </h2>
+
+---
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 ```yaml
 name: Martin Vardanyan
@@ -38,6 +41,8 @@ technical_background:
 goals: ["Create useful python library"]
 hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
 ```
+
+---
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="left">
