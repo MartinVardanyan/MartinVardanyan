@@ -11,7 +11,7 @@
 </h2>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-```
+---
 yaml
 <dl>name</dl>: Martin Vardanyan
 located_in: Yerevan, Armenia
@@ -39,7 +39,7 @@ technical_background:
   ]
 goals: ["Create useful python library"]
 hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
-```
+---
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="left">
