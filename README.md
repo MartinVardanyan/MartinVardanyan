@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&text=&height=200"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&text=&height=100"/>
 
 <h1 align="center">Hi there, I'm Martin.</h1>
 
@@ -74,3 +74,8 @@ hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
 [![Martin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=martinvardanyan&custom_title=Martin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
 <p align="center"><img src="https://profile-counter.glitch.me/{martinvardanyan}/count.svg"></p>
 
+![Snake animation](https://github.com/martinvardanyan/martinvardanyan/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
