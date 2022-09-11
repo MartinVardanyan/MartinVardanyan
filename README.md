@@ -1,40 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&text=&height=150"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&text=&height=200"/>
 
-<h1 align="center">Hi there, I'm Martin.<img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626.gif" width=40></h1>
+<h1 align="center">Hi there, I'm Martin.</h1>
 
-<h2 align="center">I'm a software developer<img src="https://tenor.com/view/laptop-computer-objects-joypixels-personal-computer-pc-gif-17449113.gif" width=40>!</h3>
+<h2 align="center">I'm a software developer!</h3>
 
 <p align="center"><img src="https://tenor.com/view/coding-computer-coding-computer-hacking-hacker-gif-19990794.gif" width="600" height="300"></p>
 
 <h2 align="left">Connect with me:<br>
-<a href="https://www.linkedin.com/in/martin-vardanyan-6a5b1b1b1/"><img src="https://tenor.com/view/linkin-logo-gif-25661113.gif" width=40></a>
+<a href="https://www.linkedin.com/in/martin-vardanyan-6a5b1b1b1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 />
+
 </h2>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-title: "YAML"
-tags: "yaml markdown markup language processor jekyll"
-desc: "Understanding YAML, another markup language, that’s great for structured content."
-playlist: PLWjCJDeWfDdfzjgthWhvHOxyvFZDCp_2L
-download: https://github.com/acgd-learn-the-web/yaml-code/archive/master.zip
-github: https://github.com/acgd-learn-the-web/yaml-code
-cheatsheet: markdown-yaml-cheat-sheet
-extra_practice:
-  week:
-    title: "Web Dev 4, Week 04"
-    url: "/courses/web-dev-4/week-04/"
-  slides:
-    - title: "Markdown & YAML"
-      url: "/courses/web-dev-4/markdown-yaml/"
-  activities:
-    - title: "YAML Yodeller"
-      url: "yaml-yodeller"
 
----
-yaml
- - name: Martin Vardanyan
+```yaml
+name: Martin Vardanyan
 located_in: Yerevan, Armenia
 current_job: Software Developer
-education: 
+education:
   [
     "Python Introduction to Data Science and ML course",
     "Web Programming with Python course",
@@ -57,7 +40,7 @@ technical_background:
   ]
 goals: ["Create useful python library"]
 hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
----
+```
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="left">
