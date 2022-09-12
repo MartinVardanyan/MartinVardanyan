@@ -35,7 +35,7 @@ technical_background:
   [
     "Software Developer",
     "Python Teacher Assistant",
-    "Mentroship - Data Science & Machine Learning in Python",
+    "Mentorship - Data Science & Machine Learning in Python",
     "Intern - Machine Learning Models development",
   ]
 goals: ["Create useful python library"]
