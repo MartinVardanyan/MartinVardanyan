@@ -34,9 +34,8 @@ fields_of_interests:
 technical_background:
   [
     "Software Developer",
-    "Python Teacher Assistant",
-    "Mentorship - Data Science & Machine Learning in Python",
-    "Intern - Machine Learning Models development",
+    "Python Teacher",
+    "Machine Learning Models development",
   ]
 goals: ["Create useful python library"]
 hobbies: ["Chess", "Football", "Music", "Swimming", "Movies"]
